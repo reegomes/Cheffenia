@@ -1,0 +1,23 @@
+{
+  "name": "cheff-bot",
+  "version": "1.0.0",
+  "description": "Discord bot dedicated to Carpe Omnium clan in Ragnarok Online(bRO), modified from miho-bot by GkevinOD.",
+  "main": "cheff-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reegomes/miho-bot.git"
+  },
+  "author": "GkevinOD",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/reegomes/miho-bot/issues"
+  },
+  "homepage": "https://github.com/reegomes/miho-bot#readme",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.3.2"
+  }
+}

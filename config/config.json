@@ -1,0 +1,141 @@
+{
+	"client": {
+		"token": "NDY2MjcxNzg0OTcxMjcyMjA2.DiZo-g.piDD0SNUd8PdOWXrntt0eExpBYg"
+	},
+	"permissions": {
+		"Hu3Gomes": "moderator"
+	},
+	"inheritpermission": {
+		"admin": "moderator",
+		"moderator": "member"
+	},
+	"commands": {
+		"add": {
+			"channels": [
+				"teste-bot"
+			],
+			"permissions": {
+				"0": "member",
+				"1": "member",
+				"2": "moderator"
+			},
+			"function": "titanAdd",
+			"help": "Here are the usage for *add*:\n• /add : Add yourself to the current titan queue.\n• /add *element* : Add yourself to the specified titan queue.\n• /add *element* *name* : (Moderator) Add a specified name to the queue."
+		},
+		"remove": {
+			"channels": [
+				"teste-bot"
+			],
+			"permissions": {
+				"0": "member",
+				"1": "member",
+				"2": "moderator"
+			},
+			"function": "titanRemove",
+			"help": "Here are the usage for *remove*:\n• /remove : Remove yourself from the current titan queue.\n• /remove *element* : Remove yourself from the specified titan queue.\n •/remove all : Clears all queues for all titans.\n• /remove *element* *number* : (Moderator) Remove a specified queue number from queue.\n• /remove *element* *name* : (Moderator) Remove a specified name from the queue.\n• /remove *element* all: (Moderator) Clear the queue list of specified titan."
+		},
+		"queue": {
+			"channels": [
+				"teste-bot"
+			],
+			"permissions": {
+				"0": "member",
+				"1": "member"
+			},
+			"function": "titanQueue",
+			"help": "Here are the usage for *queue*:\n• /queue : Displays the queue for current titan.\n• /queue *element* : Display the queue for the specified titan."
+		},
+		"titan": {
+			"channels": [
+				"teste-bot"
+			],
+			"permissions": {
+				"0": "member",
+				"1": "moderator"
+			},
+			"function": "titan",
+			"help": "Here are the usage for *titan*:\n• /titan : If the current titan right now.\n• /titan *element* : (Moderator) Changes the current titan.\n• /titan off : (Moderator) Sets the current titan to unknown."
+		},
+		"clean": {
+			"channels": [
+				"any"
+			],
+			"permissions": {
+				"0": "moderator"
+			},
+			"function": "clean",
+			"help": "Here are the usage for *clean*:\n• /clean : (Moderator) Deletes up to 20 messages with @Miho and messages made by Miho."
+		},
+		"info": {
+			"channels": [
+				"any"
+			],
+			"permissions": {
+				"2": "member"
+			},
+			"function": "displayAstromon",
+			"help": "Here are the usage for *info*:\n• /info *element* *name*: Displays stats for its evolution 3 level 60 version."
+		},
+		"help": {
+			"channels": [
+				"any"
+			],
+			"permissions": {
+				"0": "member",
+				"1": "member"
+			},
+			"function": "help",
+			"help": "Here are the usage for *Cheffenia*:\n• /Cheffenia : If the current Cheffenia right now.\n• /Cheffenia *element* : (Moderator) Changes the current Cheffenia.\n• /Cheffenia off : (Moderator) Sets the current Cheffenia to unknown."
+		},
+		"purge": {
+			"channels": [
+				"any"
+			],
+			"permissions": {
+				"0": "moderator",
+				"1": "moderator"
+			},
+			"function": "purge",
+			"help": "Here are the usage for *purge*:\n• /purge *number*: Deletes a number of messages."
+		}
+	},
+	"channels": {
+		"teste-bot": {
+			"titan": "Sentinela",
+			"mention": "@here",
+			"queue": {
+				"Shura": [
+					"Hu3Gomes"
+				],
+				"Sentinela": [
+					"Hu3Gomes",
+					"Teste"
+				],
+				"Bioquimico": [
+					"Hu3Gomes",
+					"Renato"
+				],
+				"Arcebispo": [
+					"Hu3Gomes"
+				],
+				"Arcano": [
+					"Hu3Gomes"
+				],
+				"RK": [
+					"Hu3Gomes"
+				],
+				"Feiticeiro": [],
+				"SA": [],
+				"Trovador": [],
+				"RG": [],
+				"Sicario": [],
+				"Renegado": [],
+				"Mecanico": [],
+				"Musa": [],
+				"Kagerou": [],
+				"Oboro": [],
+				"Insurgente": []
+			}
+		}
+	}
+}

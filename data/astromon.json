@@ -1,0 +1,3036 @@
+{
+	"nightmare": {
+		"wood": {
+			"passive": "Morale Boost 30%",
+			"active": "Taunt 1T",
+			"target": "All Enemies",
+			"hp": "26907",
+			"attack": "2595",
+			"defense": "3603",
+			"recovery": "2349",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Res +25% (PvP)",
+		"light": {
+			"passive": "Aggression (Defense)",
+			"active": "Sap x3 1T",
+			"target": "All Enemies",
+			"hp": "26090",
+			"attack": "2533",
+			"defense": "3535",
+			"recovery": "2349",
+			"gem": "%Def %Def %HP Protection"
+		},
+		"water": {
+			"passive": "Seal 3T",
+			"active": "HP Siphon 10% Team",
+			"target": "All Enemies",
+			"hp": "27248",
+			"attack": "2601",
+			"defense": "3514",
+			"recovery": "2343",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"shiva": {
+		"dark": {
+			"passive": "Seal 80% 2T",
+			"active": "Stun 1T",
+			"target": "All Enemies",
+			"hp": "32272",
+			"attack": "2349",
+			"defense": "3562",
+			"recovery": "2588",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +45% (Dungeon)",
+		"fire": {
+			"passive": "Stun 1T",
+			"active": "HP Siphon 10% Team",
+			"target": "All Enemies",
+			"hp": "27690",
+			"attack": "2295",
+			"defense": "3494",
+			"recovery": "2309",
+			"gem": "%Def %HP %HP Protection"
+		},
+		"wood": {
+			"passive": "Predator 40%",
+			"active": "Seal 60% 2T",
+			"target": "All Enemies",
+			"hp": "28541",
+			"attack": "3603",
+			"defense": "2636",
+			"recovery": "2363",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"light": {
+			"passive": "Battle Rush 20% HP/SP",
+			"active": "Aggression (HP)",
+			"target": "All Enemies",
+			"hp": "39713",
+			"attack": "2568",
+			"defense": "2180",
+			"recovery": "2357",
+			"gem": "%HP %HP %Def Life"
+		},
+		"water": {
+			"passive": "Thirst 80% -30% 2T",
+			"active": "Recovery Down 80% 2T",
+			"target": "All Enemies",
+			"hp": "49104",
+			"attack": "2215",
+			"defense": "2180",
+			"recovery": "2024",
+			"gem": "%HP %Def %HP Protection"
+		}
+	},
+	"persephone": {
+		"light": {
+			"passive": "Morale Boost 10% Team",
+			"active": "Shock 60% 2T",
+			"target": "All Enemies",
+			"hp": "31095",
+			"attack": "2649",
+			"defense": "3548",
+			"recovery": "2022",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"leader": "Crit +25% (Dungeon)",
+		"wood": {
+			"passive": "Sap x2 1T",
+			"active": "Attack Down 80% 2T",
+			"target": "All Enemies",
+			"hp": "32801",
+			"attack": "2737",
+			"defense": "2904",
+			"recovery": "2610",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"water": {
+			"passive": "HP Siphon 10% Team",
+			"active": "Petrification 80% 1T",
+			"target": "All Enemies",
+			"hp": "32495",
+			"attack": "2784",
+			"defense": "2883",
+			"recovery": "2624",
+			"gem": "%HP %HP %HP Protection"
+		},
+		"fire": {
+			"passive": "Sap 60% x2 1T",
+			"active": "Sap x2 2T",
+			"target": "All Enemies",
+			"hp": "30111",
+			"attack": "3077",
+			"defense": "2801",
+			"recovery": "2617",
+			"gem": "%Def %HP %Def Life"
+		},
+		"dark": {
+			"passive": "Morale Boost 30%",
+			"active": "Predator 40%",
+			"target": "All Enemies",
+			"hp": "27151",
+			"attack": "3664",
+			"defense": "2582",
+			"recovery": "1948",
+			"gem": "%Crit-Rate/%Atk %Def %Atk Intuition"
+		}
+	},
+	"mandragora": {
+		"light": {
+			"passive": "Taunt 60% 1T",
+			"active": "Sap 60% x1 3T",
+			"target": "All Enemies",
+			"hp": "30612",
+			"attack": "1907",
+			"defense": "3440",
+			"recovery": "2158",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +35% (Element)",
+		"wood": {
+			"passive": "Sap 60% x1 1T",
+			"active": "Sleep 40% 1T",
+			"target": "All Enemies",
+			"hp": "29604",
+			"attack": "1429",
+			"defense": "2833",
+			"recovery": "1703",
+			"gem": "%Def %Def %HP Life"
+		},
+		"fire": {
+			"passive": "Sleep 60% 1T",
+			"active": "Thirst 60% -10% 1T",
+			"target": "All Enemies",
+			"hp": "29430",
+			"attack": "1742",
+			"defense": "1978",
+			"recovery": "1806",
+			"gem": "%HP %Def %Def Protection"
+		},
+		"dark": {
+			"passive": "Hunter 50%",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "30443",
+			"attack": "3187",
+			"defense": "1879",
+			"recovery": "2036",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Intuition"
+		},
+		"water": {
+			"passive": "Fatigue 60% 1T",
+			"active": "Recovery Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "26839",
+			"attack": "2622",
+			"defense": "1512",
+			"recovery": "1580",
+			"gem": "%Atk %HP %Def Valor"
+		}
+	},
+	"loki": {
+		"wood": {
+			"passive": "Defense Down 70% 2T",
+			"active": "Sleep 70% 1T",
+			"target": "All Enemies",
+			"hp": "24493",
+			"attack": "2416",
+			"defense": "3352",
+			"recovery": "1894",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Def +35%",
+		"light": {
+			"passive": "Attack Down 70% 1T",
+			"active": "Defense Down 70% 2T",
+			"target": "All Enemies",
+			"hp": "31364",
+			"attack": "2426",
+			"defense": "2465",
+			"recovery": "2357",
+			"gem": "%HP %Def %Def Life"
+		},
+		"dark": {
+			"passive": "Seal 70% 2T",
+			"active": "Aggression (HP)",
+			"target": "All Enemies",
+			"hp": "36524",
+			"attack": "2181",
+			"defense": "2416",
+			"recovery": "1862",
+			"gem": "%HP %HP %Def Life"
+		},
+		"fire": {
+			"passive": "Sap 80% x1 2T",
+			"active": "Sap 60% x2 2T",
+			"target": "All Enemies",
+			"hp": "33834",
+			"attack": "2245",
+			"defense": "2220",
+			"recovery": "2061",
+			"gem": "%HP %Def %Def Life"
+		},
+		"water": {
+			"passive": "Hunter 50%",
+			"active": "Thirst Critical",
+			"target": "All Enemies",
+			"hp": "30558",
+			"attack": "3107",
+			"defense": "1884",
+			"recovery": "2031",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Ruin"
+		}
+	},
+	"seiren": {
+		"light": {
+			"passive": "Morale Boost 20%",
+			"active": "Shield 2T",
+			"target": "Heal",
+			"hp": "24715",
+			"attack": "2425",
+			"defense": "3338",
+			"recovery": "1914",
+			"gem": "%Def %HP %Def Life"
+		},
+		"leader": "Def +35% (Element)",
+		"dark": {
+			"passive": "Adrenaline Critical 10% Team",
+			"active": "Dominance 2T",
+			"target": "Heal",
+			"hp": "24525",
+			"attack": "2323",
+			"defense": "2117",
+			"recovery": "3344",
+			"gem": "%Crit-Rate/%Rec %HP %Def Intuition"
+		},
+		"water": {
+			"passive": "Adrenaline 20%",
+			"active": "Vigor 2T",
+			"target": "Heal",
+			"hp": "25443",
+			"attack": "1750",
+			"defense": "1839",
+			"recovery": "2628",
+			"gem": "%HP %Rec %HP Vitality"
+		},
+		"wood": {
+			"passive": "Soul Boon: Red",
+			"active": "Recovery Up 2T",
+			"target": "Heal",
+			"hp": "26327",
+			"attack": "1899",
+			"defense": "1560",
+			"recovery": "2459",
+			"gem": "%Rec %HP %Def Life"
+		},
+		"fire": {
+			"passive": "Sap 30% x1 2T",
+			"active": "Resilience 2T",
+			"target": "Heal",
+			"hp": "30822",
+			"attack": "1696",
+			"defense": "1526",
+			"recovery": "2751",
+			"gem": "%Rec %HP %Def Life"
+		}
+	},
+	"victoria": {
+		"fire": {
+			"passive": "Taunt Critical 1T",
+			"active": "Petrification 60% 1T",
+			"target": "All Enemies",
+			"hp": "30518",
+			"attack": "1899",
+			"defense": "3310",
+			"recovery": "2172",
+			"gem": "%Crit-Rate/%Def %HP %Def Intuition"
+		},
+		"leader": "Atk +35%",
+		"light": {
+			"passive": "Aggression (Defense)",
+			"active": "Aggression (Defense)",
+			"target": "All Enemies",
+			"hp": "29891",
+			"attack": "2295",
+			"defense": "3297",
+			"recovery": "1777",
+			"gem": "%Def %Def %Def Protection"
+		},
+		"dark": {
+			"passive": "Stun Critical 1T",
+			"active": "Defense Down 60% 3T",
+			"target": "All Enemies",
+			"hp": "30583",
+			"attack": "2165",
+			"defense": "2481",
+			"recovery": "2304",
+			"gem": "%Crit-Rate/%Def %HP %Def Intuition"
+		},
+		"water": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "27099",
+			"attack": "3126",
+			"defense": "2213",
+			"recovery": "1989",
+			"gem": "%Atk %Def %HP Protection"
+		},
+		"wood": {
+			"passive": "Stun 40% 1T",
+			"active": "Stun 60% 1T",
+			"target": "All Enemies",
+			"hp": "42480",
+			"attack": "2085",
+			"defense": "1683",
+			"recovery": "1854",
+			"gem": "%HP %Def %HP Protection"
+		}
+	},
+	"anu": {
+		"dark": {
+			"passive": "Sap 60% x2 1T",
+			"active": "Aggression (Defense)",
+			"target": "All Enemies",
+			"hp": "29618",
+			"attack": "2288",
+			"defense": "3297",
+			"recovery": "1710",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Crit +20%",
+		"fire": {
+			"passive": "Stun 60% 1T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "38687",
+			"attack": "2113",
+			"defense": "2439",
+			"recovery": "1772",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"wood": {
+			"passive": "Hunter 50%",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "23496",
+			"attack": "3092",
+			"defense": "2323",
+			"recovery": "1948",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Intuition"
+		},
+		"water": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Predator 40%",
+			"target": "All Enemies",
+			"hp": "22740",
+			"attack": "3297",
+			"defense": "2111",
+			"recovery": "1920",
+			"gem": "%Atk %Def %HP Valor"
+		},
+		"light": {
+			"passive": "Defense Down 2T",
+			"active": "Thirst 60% -30% 2T",
+			"target": "All Enemies",
+			"hp": "39606",
+			"attack": "2351",
+			"defense": "1772",
+			"recovery": "1915",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"cura": {
+		"light": {
+			"passive": "Shock 60% 2T",
+			"active": "Dominance 2T",
+			"target": "Heal",
+			"hp": "26180",
+			"attack": "2282",
+			"defense": "3193",
+			"recovery": "2050",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "RedS +25%",
+		"fire": {
+			"passive": "Morale Boost Critical 10% Team",
+			"active": "Shield 3T",
+			"target": "Heal",
+			"hp": "30681",
+			"attack": "2036",
+			"defense": "2452",
+			"recovery": "2996",
+			"gem": "%Crit-Rate/%HP %Def %HP Intuition"
+		},
+		"dark": {
+			"passive": "Morale Boost 10% Team",
+			"active": "SP Siphon 2T",
+			"target": "Heal",
+			"hp": "29016",
+			"attack": "2533",
+			"defense": "2345",
+			"recovery": "2100",
+			"gem": "%Def %HP %Def Life"
+		},
+		"wood": {
+			"passive": "Adrenaline 20%",
+			"active": "Resilience 2T",
+			"target": "Heal",
+			"hp": "37536",
+			"attack": "1962",
+			"defense": "2317",
+			"recovery": "2194",
+			"gem": "%HP %Def %Def Vitelity"
+		},
+		"water": {
+			"passive": "Morale Boost 20%",
+			"active": "Attack Up 2T",
+			"target": "Heal",
+			"hp": "38380",
+			"attack": "2323",
+			"defense": "1840",
+			"recovery": "1928",
+			"gem": "%Def %HP %Def Vitality"
+		}
+	},
+	"rocky": {
+		"light": {
+			"passive": "Morale Boost 30%",
+			"active": "Shock 50% 2T",
+			"target": "All Enemies",
+			"hp": "24273",
+			"attack": "2458",
+			"defense": "3187",
+			"recovery": "1914",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "CD +45%",
+		"dark": {
+			"passive": "Shock Critical 1T",
+			"active": "Fatigue 60% 3T",
+			"target": "All Enemies",
+			"hp": "24415",
+			"attack": "3024",
+			"defense": "2138",
+			"recovery": "2248",
+			"gem": "%Crit-Rate/%Atk %Def %Atk Ruin"
+		}
+	},
+	"toadora": {
+		"dark": {
+			"passive": "Attack Down 50% 2T",
+			"active": "Sap 70% x2 2T",
+			"target": "All Enemies",
+			"hp": "30763",
+			"attack": "1920",
+			"defense": "3187",
+			"recovery": "2172",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +35%",
+		"light": {
+			"passive": "Morale Boost Critical 30%",
+			"active": "Sap 60% x3 1T",
+			"target": "All Enemies",
+			"hp": "28818",
+			"attack": "2492",
+			"defense": "2310",
+			"recovery": "2147",
+			"gem": "%Crit-Rate/%Def %Def %HP Intuition"
+		}
+	},
+	"boltwing": {
+		"water": {
+			"passive": "Petrification 60% 1T",
+			"active": "Petrification 60% 1T",
+			"target": "All Enemies",
+			"hp": "24252",
+			"attack": "2425",
+			"defense": "3173",
+			"recovery": "1948",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "CD +45%",
+		"wood": {
+			"passive": "HP Siphon",
+			"active": "HP Siphon team",
+			"target": "All Enemies",
+			"hp": "26098",
+			"attack": "3085",
+			"defense": "2282",
+			"recovery": "1628",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"fire": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Attack Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "24293",
+			"attack": "3059",
+			"defense": "2138",
+			"recovery": "2288",
+			"gem": "%Atk %HP %Def Valor"
+		}
+	},
+	"succubus": {
+		"dark": {
+			"passive": "Sleep 60% 2T",
+			"active": "Sap 60% x3 1T",
+			"target": "All Enemies",
+			"hp": "30013",
+			"attack": "2343",
+			"defense": "3173",
+			"recovery": "1867",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +35%",
+		"water": {
+			"passive": "Morale Boost Critical 30%",
+			"active": "Attack Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "37059",
+			"attack": "2146",
+			"defense": "2474",
+			"recovery": "1711",
+			"gem": "%Crit-Rate/%HP %Def %HP Intuition"
+		},
+		"wood": {
+			"passive": "Sleep 60% 2T",
+			"active": "Shield Breaker",
+			"target": "All Enemies",
+			"hp": "31331",
+			"attack": "2321",
+			"defense": "2351",
+			"recovery": "2045",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"fire": {
+			"passive": "HP Siphon crit",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "26329",
+			"attack": "3167",
+			"defense": "2288",
+			"recovery": "1681",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Intuition"
+		},
+		"light": {
+			"passive": "Morale Boost 10% Team",
+			"active": "HP Siphon 10% Team",
+			"target": "All Enemies",
+			"hp": "24293",
+			"attack": "2922",
+			"defense": "2138",
+			"recovery": "2309",
+			"gem": "%Atk %HP %Def Life"
+		}
+	},
+	"vampire": {
+		"dark": {
+			"passive": "Sap 50% x3 1T",
+			"active": "Taunt 80% 1T",
+			"target": "All Enemies",
+			"hp": "30674",
+			"attack": "1873",
+			"defense": "3167",
+			"recovery": "2179",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Res +20%",
+		"wood": {
+			"passive": "Morale Boost 20%",
+			"active": "Sap 80% x2 1T",
+			"target": "All Enemies",
+			"hp": "31630",
+			"attack": "2205",
+			"defense": "2351",
+			"recovery": "2237",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"fire": {
+			"passive": "Adrenaline Critical 50%",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "26370",
+			"attack": "3024",
+			"defense": "2254",
+			"recovery": "1661",
+			"gem": "%Crit-Rate/%Atk %HP %Atk Intuition"
+		},
+		"water": {
+			"passive": "Predator 30%",
+			"active": "Sleep 80% 1T",
+			"target": "All Enemies",
+			"hp": "26418",
+			"attack": "3262",
+			"defense": "2044",
+			"recovery": "2158",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"light": {
+			"passive": "HP Siphon",
+			"active": "Defense Down 70% 2T",
+			"target": "All Enemies",
+			"hp": "27971",
+			"attack": "3310",
+			"defense": "2003",
+			"recovery": "2036",
+			"gem": "%Atk %HP %Def Valor"
+		}
+	},
+	"jeanne": {
+		"dark": {
+			"passive": "Morale Boost 30%",
+			"active": "Silence 80% 2T",
+			"target": "All Enemies",
+			"hp": "31546",
+			"attack": "2003",
+			"defense": "3153",
+			"recovery": "2295",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +35%",
+		"water": {
+			"passive": "Sleep Critical 1T",
+			"active": "Stun 60% 1T",
+			"target": "All Enemies",
+			"hp": "26294",
+			"attack": "2219",
+			"defense": "3126",
+			"recovery": "2023",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"wood": {
+			"passive": "Stalker 20%",
+			"active": "Stalker 20%",
+			"target": "All Enemies",
+			"hp": "22713",
+			"attack": "3193",
+			"defense": "2091",
+			"recovery": "1920",
+			"gem": "%Crit-Rate/%Atk %Crit-Damage/%Atk %Def Intuition"
+		},
+		"fire": {
+			"passive": "Thirst 60% -10% 1T",
+			"active": "Soul Boon: Red",
+			"target": "All Enemies",
+			"hp": "37945",
+			"attack": "2194",
+			"defense": "1854",
+			"recovery": "2058",
+			"gem": "%HP %Def %HP Life"
+		},
+		"light": {
+			"passive": "Aggression (HP)",
+			"active": "Aggression (HP)",
+			"target": "All Enemies",
+			"hp": "43564",
+			"attack": "2085",
+			"defense": "1677",
+			"recovery": "1874",
+			"gem": "%HP %HP %HP Life"
+		}
+	},
+	"odin": {
+		"water": {
+			"passive": "Stun 1T",
+			"active": "Stun 70% 1T",
+			"target": "All Enemies",
+			"hp": "25352",
+			"attack": "3169",
+			"defense": "3146",
+			"recovery": "3007",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +45% (PvP)",
+		"dark": {
+			"passive": "Battle Rush",
+			"active": "Defense Down 80% 3T",
+			"target": "All Enemies",
+			"hp": "32003",
+			"attack": "2969",
+			"defense": "2826",
+			"recovery": "1879",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"fire": {
+			"passive": "Defense Down 80% 2T",
+			"active": "Attack Down 80% 2T",
+			"target": "All Enemies",
+			"hp": "42845",
+			"attack": "2012",
+			"defense": "2789",
+			"recovery": "2214",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"light": {
+			"passive": "Sap x2 1T",
+			"active": "HP Siphon 10% Team",
+			"target": "All Enemies",
+			"hp": "41684",
+			"attack": "2108",
+			"defense": "2660",
+			"recovery": "2438",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"wood": {
+			"passive": "HP Siphon",
+			"active": "Defense Down 80% 2T",
+			"target": "All Enemies",
+			"hp": "28473",
+			"attack": "3565",
+			"defense": "2596",
+			"recovery": "2363",
+			"gem": "%Atk %Atk %Def Valor"
+		}
+	},
+	"leo": {
+		"wood": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Attack Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "30062",
+			"attack": "2364",
+			"defense": "3140",
+			"recovery": "1879",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +35%",
+		"fire": {
+			"passive": "Hunter 50%",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "26349",
+			"attack": "3173",
+			"defense": "2282",
+			"recovery": "1641",
+			"gem": "%Crit-Rate/%Atk %Def %Atk Ruin"
+		},
+		"light": {
+			"passive": "Morale Boost 30%",
+			"active": "Stun 50% 2T",
+			"target": "All Enemies",
+			"hp": "27282",
+			"attack": "3140",
+			"defense": "2262",
+			"recovery": "2117",
+			"gem": "%HP %Atk %Def Valor"
+		},
+		"dark": {
+			"passive": "Attack Down 2T",
+			"active": "Silence 60% 2T",
+			"target": "All Enemies",
+			"hp": "28093",
+			"attack": "3277",
+			"defense": "2003",
+			"recovery": "2070",
+			"gem": "%HP %Def %Atk Valor"
+		},
+		"water": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Fatigue 60% 2T",
+			"target": "All Enemies",
+			"hp": "36943",
+			"attack": "2364",
+			"defense": "1813",
+			"recovery": "1921",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"hermite": {
+		"water": {
+			"passive": "Morale Boost 20%",
+			"active": "Taunt 80% 1T",
+			"target": "All Enemies",
+			"hp": "29789",
+			"attack": "2343",
+			"defense": "3140",
+			"recovery": "1750",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +35%"
+	},
+	"hunter": {
+		"dark": {
+			"passive": "Stun 70% 1T",
+			"active": "Sap 70% x2 2T",
+			"target": "Single Target",
+			"hp": "30115",
+			"attack": "2309",
+			"defense": "3140",
+			"recovery": "1832",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Crit +20% (PvP)",
+		"wood": {
+			"passive": "Morale Boost 30%",
+			"active": "Sap 50% x3 1T",
+			"target": "Single Target",
+			"hp": "30420",
+			"attack": "1539",
+			"defense": "2554",
+			"recovery": "1831",
+			"gem": "%HP %Def %Def Protection"
+		},
+		"light": {
+			"passive": "Shock 50% 2T",
+			"active": "HP Siphon",
+			"target": "Single Target",
+			"hp": "30810",
+			"attack": "3065",
+			"defense": "1873",
+			"recovery": "2070",
+			"gem": "%Atk %HP %Def Protection"
+		},
+		"water": {
+			"passive": "HP Siphon",
+			"active": "HP Siphon",
+			"target": "Single Target",
+			"hp": "29165",
+			"attack": "1959",
+			"defense": "1684",
+			"recovery": "1663",
+			"gem": "%Atk %Atk %Def Life"
+		},
+		"fire": {
+			"passive": "Morale Boost Critical 40%",
+			"active": "Stun Critical 80% 2T",
+			"target": "Single Target",
+			"hp": "25776",
+			"attack": "2595",
+			"defense": "1574",
+			"recovery": "1736",
+			"gem": "%Crit-Rate/%Atk %Crit-Rate/%HP %Atk Ruin"
+		}
+	},
+	"sura": {
+		"wood": {
+			"passive": "Seal 70% 2T",
+			"active": "Sap 80% x1 2T",
+			"target": "Single Target",
+			"hp": "29789",
+			"attack": "2288",
+			"defense": "3106",
+			"recovery": "1771",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Crit +20%",
+		"light": {
+			"passive": "Adrenaline 10% Team",
+			"active": "Adrenaline 20% Team",
+			"target": "Single Target",
+			"hp": "31775",
+			"attack": "2533",
+			"defense": "2543",
+			"recovery": "1670",
+			"gem": "%Def %HP %Def Life"
+		},
+		"dark": {
+			"passive": "HP Siphon",
+			"active": "Hunter 50%",
+			"target": "Single Target",
+			"hp": "23625",
+			"attack": "3126",
+			"defense": "2309",
+			"recovery": "1907",
+			"gem": "%Crit-Rate/%Atk %Atk %HP Intuition"
+		},
+		"fire": {
+			"passive": "Morale Boost 20%",
+			"active": "Adrenaline 20% Team",
+			"target": "Single Target",
+			"hp": "22985",
+			"attack": "3262",
+			"defense": "2085",
+			"recovery": "1954",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"water": {
+			"passive": "Stun Critical 2T",
+			"active": "Predator 40%",
+			"target": "Single Target",
+			"hp": "38414",
+			"attack": "2044",
+			"defense": "2017",
+			"recovery": "2303",
+			"gem": "%Crit-Rate/%HP %HP %Def Intuition"
+		}
+	},
+	"miho": {
+		"light": {
+			"passive": "Taunt 60% 1T",
+			"active": "Attack Down 60% 3T",
+			"target": "All Enemies",
+			"hp": "31703",
+			"attack": "2023",
+			"defense": "3085",
+			"recovery": "2329",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Res +20%",
+		"dark": {
+			"passive": "Aggression (HP)",
+			"active": "Aggression (HP)",
+			"target": "All Enemies",
+			"hp": "37263",
+			"attack": "1805",
+			"defense": "2303",
+			"recovery": "2166",
+			"gem": "%HP %HP %Crit-Rate/%HP Intuition"
+		},
+		"water": {
+			"passive": "Sap 60% x1 1T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "28409",
+			"attack": "1912",
+			"defense": "1889",
+			"recovery": "1671",
+			"gem": "%HP %Def %Def Protection"
+		},
+		"fire": {
+			"passive": "Attack Down 60% 2T",
+			"active": "HP Siphon",
+			"target": "All Enemies",
+			"hp": "34067",
+			"attack": "1982",
+			"defense": "1642",
+			"recovery": "1274",
+			"gem": "%HP %Atk %Def Valor"
+		},
+		"wood": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Stun 60% 1T",
+			"target": "All Enemies",
+			"hp": "25648",
+			"attack": "2452",
+			"defense": "1640",
+			"recovery": "1729",
+			"gem": "%Atk %Def %HP Valor"
+		}
+	},
+	"pebbol": {
+		"fire": {
+			"passive": "Stun 60% 1T",
+			"active": "Taunt 80% 1T",
+			"target": "All Enemies",
+			"hp": "29775",
+			"attack": "2241",
+			"defense": "3059",
+			"recovery": "1852",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +35%"
+	},
+	"tigar": {
+		"water": {
+			"passive": "Taunt 70% 1T",
+			"active": "Defense Down 70% 2T",
+			"target": "All Enemies",
+			"hp": "26729",
+			"attack": "2193",
+			"defense": "3051",
+			"recovery": "2411",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +35%",
+		"fire": {
+			"passive": "Defense Down 60% 3T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "24445",
+			"attack": "2832",
+			"defense": "2862",
+			"recovery": "2685",
+			"gem": "%Def %Atk %HP Valor"
+		},
+		"light": {
+			"passive": "Sleep Critical 2T",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "29521",
+			"attack": "3126",
+			"defense": "2118",
+			"recovery": "2002",
+			"gem": "%Crit-Rate/%Atk %Atk %Crit-Rate/%Def Ruin"
+		},
+		"dark": {
+			"passive": "Morale Boost 30%",
+			"active": "Attack Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "37009",
+			"attack": "1983",
+			"defense": "2010",
+			"recovery": "2316",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"wood": {
+			"passive": "Predator 30%",
+			"active": "Stun 60% 1T",
+			"target": "All Enemies",
+			"hp": "30625",
+			"attack": "3139",
+			"defense": "1900",
+			"recovery": "2023",
+			"gem": "%Atk %Atk %Def Valor"
+		}
+	},
+	"jinn": {
+		"light": {
+			"passive": "Adrenaline 10%",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "25157",
+			"attack": "2405",
+			"defense": "2990",
+			"recovery": "2077",
+			"gem": "%Def %Crit-Rate/%Atk %Atk Intuition"
+		},
+		"leader": "Crit +20%",
+		"water": {
+			"passive": "Morale Boost 10% Team",
+			"active": "Petrification 60% 1T",
+			"target": "All Enemies",
+			"hp": "29958",
+			"attack": "2323",
+			"defense": "2594",
+			"recovery": "2207",
+			"gem": "%Def %Def %HP Life"
+		},
+		"fire": {
+			"passive": "SP Siphon",
+			"active": "Predator 40%",
+			"target": "All Enemies",
+			"hp": "26928",
+			"attack": "3222",
+			"defense": "2193",
+			"recovery": "1983",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"wood": {
+			"passive": "Attack Down 80% 1T",
+			"active": "Sap 60% x2 2T",
+			"target": "All Enemies",
+			"hp": "28920",
+			"attack": "3018",
+			"defense": "1976",
+			"recovery": "1997",
+			"gem": "%HP %HP %Def Life"
+		},
+		"dark": {
+			"passive": "Petrification 80% 1T",
+			"active": "Silence 80% 1T",
+			"target": "All Enemies",
+			"hp": "38830",
+			"attack": "2295",
+			"defense": "1888",
+			"recovery": "2141",
+			"gem": "%HP %Def %HP Protection"
+		}
+	},
+	"seastar": {
+		"dark": {
+			"passive": "Aggression (Defense)",
+			"active": "Aggression (Defense)",
+			"target": "All Enemies",
+			"hp": "31444",
+			"attack": "2036",
+			"defense": "2963",
+			"recovery": "2343",
+			"gem": "%Crit-Rate/%Def %Def %Def Intuition"
+		},
+		"leader": "Crit +18%",
+		"light": {
+			"passive": "Stun Critical 1T",
+			"active": "Attack Down Critical 2T",
+			"target": "All Enemies",
+			"hp": "38176",
+			"attack": "2017",
+			"defense": "1983",
+			"recovery": "2364",
+			"gem": "%HP %Def %Crit-Rate/%Def Intuition"
+		},
+		"fire": {
+			"passive": "Fatigue 60% 1T",
+			"active": "Stun 80% 1T",
+			"target": "All Enemies",
+			"hp": "22651",
+			"attack": "2622",
+			"defense": "1852",
+			"recovery": "1491",
+			"gem": "%Atk %Def %HP Valor"
+		},
+		"wood": {
+			"passive": "Thirst 60% -10% 1T",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "28688",
+			"attack": "1980",
+			"defense": "1773",
+			"recovery": "1690",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"water": {
+			"passive": "Sap 40% x2 1T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "24347",
+			"attack": "2473",
+			"defense": "1771",
+			"recovery": "1696",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"valkyrie": {
+		"wood": {
+			"passive": "Adrenaline 20%",
+			"active": "HP Siphon 10% Team",
+			"target": "All Enemies",
+			"hp": "30287",
+			"attack": "2893",
+			"defense": "2937",
+			"recovery": "2624",
+			"gem": "%HP %HP %Def Life"
+		},
+		"leader": "Atk +45% (PvP)",
+		"fire": {
+			"passive": "SP Siphon",
+			"active": "Stun 80% 1T",
+			"target": "All Enemies",
+			"hp": "32787",
+			"attack": "2703",
+			"defense": "2835",
+			"recovery": "2733",
+			"gem": "%Atk %Atk %HP Protection"
+		},
+		"light": {
+			"passive": "Stun 1T",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "31003",
+			"attack": "2954",
+			"defense": "2807",
+			"recovery": "2645",
+			"gem": "%Crit-Rate/%Atk %Def %Atk Intuituion"
+		},
+		"water": {
+			"passive": "Predator 40%",
+			"active": "Defense Down 2T",
+			"target": "All Enemies",
+			"hp": "25408",
+			"attack": "3269",
+			"defense": "2499",
+			"recovery": "2595",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"dark": {
+			"passive": "Stun 1T",
+			"active": "Silence 60% 2T",
+			"target": "All Enemies",
+			"hp": "48498",
+			"attack": "2167",
+			"defense": "2146",
+			"recovery": "1996",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"arthur": {
+		"water": {
+			"passive": "Morale Boost 50%",
+			"active": "Attack Down 60% 3T",
+			"target": "All Enemies",
+			"hp": "32454",
+			"attack": "2784",
+			"defense": "2931",
+			"recovery": "2645",
+			"gem": "%HP %Def %Atk Protection"
+		},
+		"leader": "HP +45% (Dungeon)",
+		"wood": {
+			"passive": "HP Siphon",
+			"active": "Stun 60% 2T",
+			"target": "All Enemies",
+			"hp": "28166",
+			"attack": "3595",
+			"defense": "2479",
+			"recovery": "2288",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"fire": {
+			"passive": "Stun 1T",
+			"active": "Defense Down 60% 3T",
+			"target": "All Enemies",
+			"hp": "27949",
+			"attack": "3467",
+			"defense": "2465",
+			"recovery": "2288",
+			"gem": "%HP %Def %Atk Valor"
+		},
+		"light": {
+			"passive": "Shock 1T",
+			"active": "Thirst 80% -20% 2T",
+			"target": "All Enemies",
+			"hp": "23399",
+			"attack": "3746",
+			"defense": "2411",
+			"recovery": "2220",
+			"gem": "%Atk %Def %HP Valor"
+		},
+		"dark": {
+			"passive": "Aggression (HP)",
+			"active": "Sap x3 1T",
+			"target": "All Enemies",
+			"hp": "39706",
+			"attack": "2303",
+			"defense": "2316",
+			"recovery": "2657",
+			"gem": "%HP %HP %Def Life"
+		}
+	},
+	"mera": {
+		"light": {
+			"passive": "Aggression (Defense)",
+			"active": "Seal 60% 2T",
+			"target": "All Enemies",
+			"hp": "30825",
+			"attack": "2044",
+			"defense": "2926",
+			"recovery": "2321",
+			"gem": "%Def %Def %Def Protection"
+		},
+		"leader": "HP +35%",
+		"water": {
+			"passive": "Seal 60% 2T",
+			"active": "Defense Down 70% 2T",
+			"target": "All Enemies",
+			"hp": "24417",
+			"attack": "2808",
+			"defense": "2825",
+			"recovery": "2656",
+			"gem": "%HP %Def %Def Life"
+		},
+		"dark": {
+			"passive": "Recovery Down 80% 2T",
+			"active": "Sleep 1T",
+			"target": "All Enemies",
+			"hp": "38823",
+			"attack": "1862",
+			"defense": "2311",
+			"recovery": "2193",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"fire": {
+			"passive": "Stalker 30%",
+			"active": "HP Siphon",
+			"target": "All Enemies",
+			"hp": "26205",
+			"attack": "3149",
+			"defense": "2267",
+			"recovery": "1639",
+			"gem": "%Crit-Rate/%Atk %Atk %Crit-Dmg/%HP Ruin"
+		},
+		"wood": {
+			"passive": "Fatigue 80% 3T",
+			"active": "Thirst 80% 2T",
+			"target": "All Enemies",
+			"hp": "36524",
+			"attack": "2235",
+			"defense": "1884",
+			"recovery": "2054",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"wildfang": {
+		"wood": {
+			"passive": "Petrification Critical 1T",
+			"active": "Sleep 1T",
+			"target": "All Enemies",
+			"hp": "31499",
+			"attack": "2036",
+			"defense": "2922",
+			"recovery": "2323",
+			"gem": "%Crit-Rate/%Def %Def %HP Intuition"
+		},
+		"leader": "BlueS +25%",
+		"light": {
+			"passive": "Defense Down 80% 2T",
+			"active": "Shock 60% 1T",
+			"target": "All Enemies",
+			"hp": "29268",
+			"attack": "2376",
+			"defense": "2372",
+			"recovery": "2174",
+			"gem": "%HP %Def %Def Life"
+		},
+		"fire": {
+			"passive": "HP Siphon",
+			"active": "HP Siphon",
+			"target": "All Enemies",
+			"hp": "27017",
+			"attack": "3059",
+			"defense": "2295",
+			"recovery": "2138",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"dark": {
+			"passive": "Stalker 20%",
+			"active": "Stalker 20%",
+			"target": "All Enemies",
+			"hp": "27242",
+			"attack": "2996",
+			"defense": "2282",
+			"recovery": "2091",
+			"gem": "%Crit-Rate/%Atk %HP %Atk Intuition"
+		},
+		"water": {
+			"passive": "Stun 60% 1T",
+			"active": "Petrification 60% 1T",
+			"target": "All Enemies",
+			"hp": "39612",
+			"attack": "2221",
+			"defense": "1840",
+			"recovery": "2058",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"cocomaru": {
+		"fire": {
+			"passive": "Attack Down 60% 1T",
+			"active": "Sleep 40% 1T",
+			"target": "All Enemies",
+			"hp": "29419",
+			"attack": "1437",
+			"defense": "2846",
+			"recovery": "1703",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +35% (Element)",
+		"water": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Petrification 40% 1T",
+			"target": "All Enemies",
+			"hp": "23707",
+			"attack": "2384",
+			"defense": "1709",
+			"recovery": "1866",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"wood": {
+			"passive": "Stun 40% 1T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "28773",
+			"attack": "2425",
+			"defense": "1628",
+			"recovery": "1566",
+			"gem": "%Atk %Def %HP Valor"
+		}
+	},
+	"woolf": {
+		"light": {
+			"passive": "Buff Breaker",
+			"active": "Shock 80% 1T",
+			"target": "Single Target",
+			"hp": "28732",
+			"attack": "1872",
+			"defense": "2765",
+			"recovery": "1342",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +35% (ToC)",
+		"dark": {
+			"passive": "Aggression (HP)",
+			"active": "Aggression (HP)",
+			"target": "Single Target",
+			"hp": "35817",
+			"attack": "1676",
+			"defense": "1997",
+			"recovery": "1295",
+			"gem": "%HP %HP %HP Life"
+		}
+	},
+	"gatito": {
+		"water": {
+			"passive": "Attack Down 2T",
+			"active": "Sap 80% x2 2T",
+			"target": "Single Target",
+			"hp": "24210",
+			"attack": "1729",
+			"defense": "2697",
+			"recovery": "1649",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Def +35% (ToC)",
+		"light": {
+			"passive": "Sap x1 2T",
+			"active": "Aggression (HP)",
+			"target": "Single Target",
+			"hp": "34206",
+			"attack": "2221",
+			"defense": "2392",
+			"recovery": "1881",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"dark": {
+			"passive": "Morale Boost 30%",
+			"active": "Hunter 50%",
+			"target": "Single Target",
+			"hp": "23284",
+			"attack": "3255",
+			"defense": "2364",
+			"recovery": "1948",
+			"gem": "%Crit-Rate/%Atk %Atk %HP Ruin"
+		},
+		"fire": {
+			"passive": "Recovery Down 2T",
+			"active": "Petrification 1T",
+			"target": "Single Target",
+			"hp": "28272",
+			"attack": "2266",
+			"defense": "2106",
+			"recovery": "1690",
+			"gem": "%HP %Def %Def Protection"
+		},
+		"wood": {
+			"passive": "Defense Down 2T",
+			"active": "Fatigue 3T",
+			"target": "Single Target",
+			"hp": "26213",
+			"attack": "2587",
+			"defense": "1736",
+			"recovery": "1566",
+			"gem": "%Atk %HP %Def Valor"
+		}
+	},
+	"shellie": {
+		"wood": {
+			"passive": "Sap x1 2T",
+			"active": "Wood Predator 100%",
+			"target": "Single Target",
+			"hp": "25362",
+			"attack": "1783",
+			"defense": "2664",
+			"recovery": "1566",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "RedS +25% (Dungeon)",
+		"fire": {
+			"passive": "Taunt 2T",
+			"active": "Fire Predator 100%",
+			"target": "Single Target",
+			"hp": "29293",
+			"attack": "2001",
+			"defense": "1705",
+			"recovery": "1671",
+			"gem": "%Def %Def %HP Life"
+		},
+		"water": {
+			"passive": "Defense Down 2T",
+			"active": "Water Predator 100%",
+			"target": "Single Target",
+			"hp": "26770",
+			"attack": "2744",
+			"defense": "1497",
+			"recovery": "1607",
+			"gem": "%Atk %HP %Def Protection"
+		}
+	},
+	"arc": {
+		"fire": {
+			"passive": "Taunt 20% 1T",
+			"active": "Attack Down 60% 2T",
+			"target": "Single Target",
+			"hp": "29403",
+			"attack": "1322",
+			"defense": "2640",
+			"recovery": "1628"
+		},
+		"leader": "Res +15%",
+		"water": {
+			"passive": "Sleep 20% 1T",
+			"active": "Sap 80% x1 2T",
+			"target": "Single Target",
+			"hp": "28428",
+			"attack": "1669",
+			"defense": "2484",
+			"recovery": "1192"
+		},
+		"wood": {
+			"passive": "Defense Down 40% 2T",
+			"active": "Thirst 60% -10% 1T",
+			"target": "Single Target",
+			"hp": "43206",
+			"attack": "1507",
+			"defense": "1171",
+			"recovery": "1336"
+		}
+	},
+	"wumoo": {
+		"fire": {
+			"passive": "Fire Hunter 50%",
+			"active": "Sap 40% x1 2T",
+			"target": "All Enemies",
+			"hp": "28368",
+			"attack": "1695",
+			"defense": "2614",
+			"recovery": "1218"
+		},
+		"leader": "HP +25%",
+		"water": {
+			"passive": "Water Hunter 50%",
+			"active": "Thirst 40% -10% 1T",
+			"target": "All Enemies",
+			"hp": "28553",
+			"attack": "1735",
+			"defense": "2403",
+			"recovery": "1287"
+		},
+		"wood": {
+			"passive": "Wood Hunter 50%",
+			"active": "Petrification 40% 1T",
+			"target": "All Enemies",
+			"hp": "35826",
+			"attack": "1275",
+			"defense": "1750",
+			"recovery": "1573"
+		}
+	},
+	"monkiki": {
+		"water": {
+			"passive": "Defense Down 80% 2T",
+			"active": "Thirst 80% -10% 1T",
+			"target": "Single Target",
+			"hp": "28699",
+			"attack": "1852",
+			"defense": "2587",
+			"recovery": "1328",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Atk +30%",
+		"wood": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Stun 1T",
+			"target": "Single Target",
+			"hp": "28477",
+			"attack": "1893",
+			"defense": "1963",
+			"recovery": "1725",
+			"gem": "%HP %Def %Def Life"
+		},
+		"fire": {
+			"passive": "Sleep Critical 1T",
+			"active": "Sleep Critical 2T",
+			"target": "Single Target",
+			"hp": "25163",
+			"attack": "2628",
+			"defense": "1744",
+			"recovery": "1259",
+			"gem": "%Crit-Rate/%Atk %Crit-Rate/%Atk %Atk Ruin"
+		}
+	},
+	"mona": {
+		"light": {
+			"passive": "Adrenaline Critical 30%",
+			"active": "Aggression (Defense)",
+			"target": "All Enemies",
+			"hp": "30791",
+			"attack": "2607",
+			"defense": "2474",
+			"recovery": "1630",
+			"gem": "%Def %Def %HP Life"
+		},
+		"dark": {
+			"passive": "Crit Morale Boost 30%",
+			"active": "Hunter 30%",
+			"target": "All Enemies",
+			"hp": "28030",
+			"attack": "3228",
+			"defense": "1954",
+			"recovery": "2077",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Ruin"
+		},
+		"wood": {
+			"passive": "Adrenaline 20%",
+			"active": "Taunt 80% 1T",
+			"target": "All Enemies",
+			"hp": "27860",
+			"attack": "1491",
+			"defense": "2554",
+			"recovery": "1839",
+			"gem": "%HP %HP %Def Life"
+		},
+		"leader": "Atk +35% (Element)",
+		"water": {
+			"passive": "Morale Boost 20%",
+			"active": "Defense Down 50% 2T",
+			"target": "All Enemies",
+			"hp": "22808",
+			"attack": "2616",
+			"defense": "1839",
+			"recovery": "1497",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"fire": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Fatigue 60% 2T",
+			"target": "All Enemies",
+			"hp": "42627",
+			"attack": "1431",
+			"defense": "1417",
+			"recovery": "1282",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"bron": {
+		"wood": {
+			"passive": "Water Predator 30%",
+			"active": "Sleep 60% 1T",
+			"target": "Single Target",
+			"hp": "29322",
+			"attack": "1322",
+			"defense": "2554",
+			"recovery": "1573"
+		},
+		"leader": "HP +25%",
+		"water": {
+			"passive": "Fire Predator 30%",
+			"active": "Stun 60% 1T",
+			"target": "Single Target",
+			"hp": "29039",
+			"attack": "1680",
+			"defense": "1808",
+			"recovery": "1596"
+		},
+		"fire": {
+			"passive": "Wood Predator 30%",
+			"active": "Sap 80% x1 2T",
+			"target": "Single Target",
+			"hp": "28559",
+			"attack": "2403",
+			"defense": "1513",
+			"recovery": "1397"
+		}
+	},
+	"mushi": {
+		"fire": {
+			"passive": "Fatigue 40% 1T",
+			"active": "Taunt 1T",
+			"target": "Single Target",
+			"hp": "29082",
+			"attack": "1322",
+			"defense": "2539",
+			"recovery": "1640"
+		},
+		"leader": "HP +25%",
+		"water": {
+			"passive": "Taunt 40% 1T",
+			"active": "Water Predator 20%",
+			"target": "Single Target",
+			"hp": "28044",
+			"attack": "1877",
+			"defense": "1724",
+			"recovery": "1553"
+		},
+		"wood": {
+			"passive": "Morale Boost Critical 100%",
+			"active": "Hunter 50%",
+			"target": "Single Target",
+			"hp": "23853",
+			"attack": "2444",
+			"defense": "1539",
+			"recovery": "1660"
+		}
+	},
+	"birdie": {
+		"fire": {
+			"passive": "Taunt 80% 1T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "28752",
+			"attack": "1783",
+			"defense": "2527",
+			"recovery": "1355",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "HP +35% (Dungeon)",
+		"water": {
+			"passive": "Stun 80% 1T",
+			"active": "Thirst 40% -10% 1T",
+			"target": "All Enemies",
+			"hp": "30451",
+			"attack": "1763",
+			"defense": "1943",
+			"recovery": "1705",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"wood": {
+			"passive": "Sap 60% x1 1T",
+			"active": "Stun 40% 1T",
+			"target": "All Enemies",
+			"hp": "36801",
+			"attack": "1758",
+			"defense": "1246",
+			"recovery": "1336",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"kilobat": {
+		"light": {
+			"passive": "Attack Down 1T",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "29238",
+			"attack": "1322",
+			"defense": "2525",
+			"recovery": "1573",
+			"gem": "%Def %Def %HP Life"
+		},
+		"leader": "Crit +15%",
+		"dark": {
+			"passive": "Dark Stalker 20%",
+			"active": "Petrification 40% 1T",
+			"target": "All Enemies",
+			"hp": "25768",
+			"attack": "2302",
+			"defense": "1469",
+			"recovery": "1640",
+			"gem": "%Crit-Rate/%Atk %HP %Def Intuition"
+		}
+	},
+	"banshee": {
+		"light": {
+			"passive": "Shock 50% 1T",
+			"active": "Sap x2 2T",
+			"target": "All Enemies",
+			"hp": "30719",
+			"attack": "2138",
+			"defense": "2502",
+			"recovery": "2310",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"leader": "Def +35%",
+		"fire": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Thirst 60% -10% 2T",
+			"target": "All Enemies",
+			"hp": "29384",
+			"attack": "2362",
+			"defense": "2433",
+			"recovery": "2147",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"wood": {
+			"passive": "Morale Boost 20%",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "29762",
+			"attack": "3092",
+			"defense": "2152",
+			"recovery": "1968",
+			"gem": "%Atk %Atk %HP Valor"
+		},
+		"water": {
+			"passive": "Soul Boon: Red",
+			"active": "Sap 60% x2 1T",
+			"target": "All Enemies",
+			"hp": "40042",
+			"attack": "2364",
+			"defense": "1758",
+			"recovery": "1887",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"dark": {
+			"passive": "Sap 80% x2 1T",
+			"active": "Sleep 60% 2T",
+			"target": "All Enemies",
+			"hp": "42003",
+			"attack": "2052",
+			"defense": "1744",
+			"recovery": "1846",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"moler": {
+		"fire": {
+			"passive": "Recovery Down 40% 1T",
+			"active": "Fatigue 80% 2T",
+			"target": "Single Target",
+			"hp": "28723",
+			"attack": "1709",
+			"defense": "2484",
+			"recovery": "1192"
+		},
+		"leader": "RedS +15%",
+		"wood": {
+			"passive": "Fatigue 40% 1T",
+			"active": "Sap 80% x1 2T",
+			"target": "Single Target",
+			"hp": "28848",
+			"attack": "1831",
+			"defense": "1637",
+			"recovery": "1596"
+		},
+		"water": {
+			"passive": "Stun 40% 1T",
+			"active": "Taunt 80% 1T",
+			"target": "Single Target",
+			"hp": "36057",
+			"attack": "1622",
+			"defense": "1327",
+			"recovery": "1507"
+		}
+	},
+	"cupid": {
+		"water": {
+			"passive": "Thirst 60% -10% 1T",
+			"active": "Purification",
+			"target": "Heal",
+			"hp": "30694",
+			"attack": "2036",
+			"defense": "2452",
+			"recovery": "3004",
+			"gem": "%Rec %HP %Def Protection"
+		},
+		"leader": "HP +35%",
+		"dark": {
+			"passive": "Aggression (HP)",
+			"active": "Shield HP 3T",
+			"target": "Heal",
+			"hp": "37733",
+			"attack": "1805",
+			"defense": "2323",
+			"recovery": "2154",
+			"gem": "%HP %HP %HP Life"
+		},
+		"light": {
+			"passive": "Aggression (Recovery)",
+			"active": "Zeal 3T",
+			"target": "Heal",
+			"hp": "29632",
+			"attack": "2117",
+			"defense": "2009",
+			"recovery": "3193",
+			"gem": "%Rec %Def %HP Vitality"
+		},
+		"wood": {
+			"passive": "Soul Boon: Blue",
+			"active": "Shield 2T",
+			"target": "Heal",
+			"hp": "29877",
+			"attack": "2179",
+			"defense": "1989",
+			"recovery": "3099",
+			"gem": "%Rec %HP %Def Life"
+		},
+		"fire": {
+			"passive": "Attack Down 60% 1T",
+			"active": "Attack Up 3T",
+			"target": "Heal",
+			"hp": "32459",
+			"attack": "2158",
+			"defense": "1989",
+			"recovery": "3324",
+			"gem": "%Def %HP %Def Vitality"
+		}
+	},
+	"hana": {
+		"fire": {
+			"passive": "Sleep 40% 1T",
+			"active": "SP Siphon 3T",
+			"target": "Heal",
+			"hp": "30470",
+			"attack": "2036",
+			"defense": "2431",
+			"recovery": "2881",
+			"gem": "%Rec %HP %Def Life"
+		},
+		"leader": "Rec +35%",
+		"light": {
+			"passive": "Aggression (HP)",
+			"active": "Shield HP 3T",
+			"target": "Heal",
+			"hp": "36806",
+			"attack": "1976",
+			"defense": "1997",
+			"recovery": "2357",
+			"gem": "%HP %HP %HP Life"
+		},
+		"wood": {
+			"passive": "Attack Down 60% 1T",
+			"active": "Defense Up 3T",
+			"target": "Heal",
+			"hp": "32444",
+			"attack": "2138",
+			"defense": "1989",
+			"recovery": "3364",
+			"gem": "%Def %HP %Def Vitality"
+		},
+		"dark": {
+			"passive": "Soul Boon: Red",
+			"active": "Shield 3T",
+			"target": "Heal",
+			"hp": "29626",
+			"attack": "2125",
+			"defense": "1983",
+			"recovery": "3059",
+			"gem": "%Def %HP %Def Life"
+		},
+		"water": {
+			"passive": "Sap 60% x1 1T",
+			"active": "Resilience 3T",
+			"target": "Heal",
+			"hp": "32465",
+			"attack": "2125",
+			"defense": "1954",
+			"recovery": "3310",
+			"gem": "%HP %HP %Def Vitality"
+		}
+	},
+	"tai": {
+		"dark": {
+			"passive": "Dark Predator 20%",
+			"active": "Silence 80% 1T",
+			"target": "Single Target",
+			"hp": "29313",
+			"attack": "1368",
+			"defense": "2418",
+			"recovery": "1640"
+		},
+		"leader": "CD +35%",
+		"light": {
+			"passive": "Light Predator 20%",
+			"active": "Shock 80% 1T",
+			"target": "Single Target",
+			"hp": "28657",
+			"attack": "1721",
+			"defense": "1854",
+			"recovery": "1663"
+		}
+	},
+	"roca": {
+		"wood": {
+			"passive": "Attack Down 50% 2T",
+			"active": "Defense Down 40% 2T",
+			"target": "All Enemies",
+			"hp": "29452",
+			"attack": "1342",
+			"defense": "2405",
+			"recovery": "1573"
+		},
+		"leader": "HP +25%",
+		"water": {
+			"passive": "Recovery Down 60% 2T",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "24064",
+			"attack": "2170",
+			"defense": "2147",
+			"recovery": "2093"
+		},
+		"fire": {
+			"passive": "Sap 40% x1 2T",
+			"active": "Stun 40% 1T",
+			"target": "All Enemies",
+			"hp": "36214",
+			"attack": "1428",
+			"defense": "1415",
+			"recovery": "1704"
+		}
+	},
+	"indra": {
+		"light": {
+			"passive": "Elemental Advantage",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "23317",
+			"attack": "3786",
+			"defense": "2411",
+			"recovery": "2240",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Ruin"
+		},
+		"leader": "Atk +45%",
+		"water": {
+			"passive": "Atk Down 80% 3T",
+			"active": "Aggression (Enemy HP)",
+			"target": "All Enemies",
+			"hp": "27768",
+			"attack": "3043",
+			"defense": "3033",
+			"recovery": "2876",
+			"gem": "%Atk %Def %HP Conviction"
+		},
+		"fire": {
+			"passive": "Elemental Advantage",
+			"active": "Seal 70% 2T",
+			"target": "All Enemies",
+			"hp": "31694",
+			"attack": "3480",
+			"defense": "2179",
+			"recovery": "2329",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"dark": {
+			"passive": "Aggression (Enemy HP)",
+			"active": "Aggression (Enemy HP)",
+			"target": "All Enemies",
+			"hp": "28166",
+			"attack": "3357",
+			"defense": "2479",
+			"recovery": "2295",
+			"gem": "%Crit-Rate/%HP %Atk %Def Ruin"
+		},
+		"wood": {
+			"passive": "Stun 100% 1T",
+			"active": "Thirst 80% -30% 2T",
+			"target": "All Enemies",
+			"hp": "32841",
+			"attack": "2846",
+			"defense": "2910",
+			"recovery": "1929",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"sparkler": {
+		"light": {
+			"passive": "Stun 20% 1T",
+			"active": "Stun 60% 1T",
+			"target": "Single Target",
+			"hp": "27857",
+			"attack": "1354",
+			"defense": "2384",
+			"recovery": "1631"
+		},
+		"leader": "Rec +15%",
+		"water": {
+			"passive": "Fatigue 40% 1T",
+			"active": "Fatigue 60% 2T",
+			"target": "Single Target",
+			"hp": "29053",
+			"attack": "1534",
+			"defense": "1783",
+			"recovery": "1679"
+		},
+		"fire": {
+			"passive": "Defense Down 40% 2T",
+			"active": "Defense Down 60% 2T",
+			"target": "Single Target",
+			"hp": "35299",
+			"attack": "1361",
+			"defense": "1776",
+			"recovery": "1423"
+		},
+		"dark": {
+			"passive": "Silence 20% 1T",
+			"active": "Silence 60% 1T",
+			"target": "Single Target",
+			"hp": "23429",
+			"attack": "2232",
+			"defense": "1658",
+			"recovery": "1361"
+		},
+		"wood": {
+			"passive": "Sap 40% 1T",
+			"active": "Sap 60% 2T",
+			"target": "Single Target",
+			"hp": "25101",
+			"attack": "1679",
+			"defense": "1596",
+			"recovery": "2384"
+		}
+	},
+	"lumo": {
+		"water": {
+			"passive": "Recovery Down 40% 1T",
+			"active": "Attack Up 2T",
+			"target": "Heal",
+			"hp": "28966",
+			"attack": "1744",
+			"defense": "2383",
+			"recovery": "1301"
+		},
+		"leader": "Rec +25%",
+		"wood": {
+			"passive": "Attack Down 40% 1T",
+			"active": "Azure Spirit's Bounty 2T",
+			"target": "Heal",
+			"hp": "29282",
+			"attack": "1408",
+			"defense": "1831",
+			"recovery": "2288"
+		},
+		"fire": {
+			"passive": "Defense Down 40% 2T",
+			"active": "Recovery Up 2T",
+			"target": "Heal",
+			"hp": "25487",
+			"attack": "1648",
+			"defense": "1680",
+			"recovery": "2314"
+		}
+	},
+	"mimic": {
+		"wood": {
+			"passive": "Attack Down 40% 1T",
+			"active": "Attack Down 60% 2T",
+			"target": "Single Target",
+			"hp": "28880",
+			"attack": "1672",
+			"defense": "2363",
+			"recovery": "1278"
+		},
+		"leader": "Rec +25% (Dungeon)",
+		"water": {
+			"passive": "Sap 40% x1 1T",
+			"active": "Sap 60% x1 2T",
+			"target": "Single Target",
+			"hp": "38325",
+			"attack": "1195",
+			"defense": "1796",
+			"recovery": "1354"
+		},
+		"dark": {
+			"passive": "Fatigue 40% 1T",
+			"active": "Fatigue 60% 2T",
+			"target": "Single Target",
+			"hp": "27788",
+			"attack": "1831",
+			"defense": "1658",
+			"recovery": "1527"
+		},
+		"light": {
+			"passive": "Recovery Down 40% 1T",
+			"active": "Recovery Down 60% 2T",
+			"target": "Single Target",
+			"hp": "27954",
+			"attack": "1403",
+			"defense": "1658",
+			"recovery": "2308"
+		},
+		"fire": {
+			"passive": "Taunt 20% 1T",
+			"active": "Taunt 60% 1T",
+			"target": "Single Target",
+			"hp": "26241",
+			"attack": "2169",
+			"defense": "1610",
+			"recovery": "1555"
+		}
+	},
+	"yuki": {
+		"wood": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Recovery Down 60% 3T",
+			"target": "All Enemies",
+			"hp": "28859",
+			"attack": "2546",
+			"defense": "2345",
+			"recovery": "2141",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"leader": "CD +45%",
+		"light": {
+			"passive": "Shock 40% 1T",
+			"active": "Shock 60% 2T",
+			"target": "All Enemies",
+			"hp": "25157",
+			"attack": "3153",
+			"defense": "2309",
+			"recovery": "2138",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"fire": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "26948",
+			"attack": "3106",
+			"defense": "2241",
+			"recovery": "2117",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"water": {
+			"passive": "Sap 60% x2 1T",
+			"active": "Sap x2 2T",
+			"target": "All Enemies",
+			"hp": "36984",
+			"attack": "2023",
+			"defense": "1976",
+			"recovery": "2317",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"dark": {
+			"passive": "Thirst 60% -20% 2T",
+			"active": "Petrification 80% 1T",
+			"target": "All Enemies",
+			"hp": "39871",
+			"attack": "2364",
+			"defense": "1772",
+			"recovery": "1874",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"squirrus": {
+		"water": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Sap 40% x1 2T",
+			"target": "All Enemies",
+			"hp": "24712",
+			"attack": "1608",
+			"defense": "2322",
+			"recovery": "1492"
+		},
+		"leader": "Atk +25%",
+		"fire": {
+			"passive": "Attack Down 60% 1T",
+			"active": "Attack Down 40% 2T",
+			"target": "All Enemies",
+			"hp": "29897",
+			"attack": "1654",
+			"defense": "1753",
+			"recovery": "1622"
+		},
+		"wood": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Defense Down 40% 2T",
+			"target": "All Enemies",
+			"hp": "22506",
+			"attack": "2574",
+			"defense": "1539",
+			"recovery": "1403"
+		}
+	},
+	"slime": {
+		"water": {
+			"passive": "Recovery Down 40% 1T",
+			"active": "Recovery Down 60% 2T",
+			"target": "Single Target",
+			"hp": "24513",
+			"attack": "1776",
+			"defense": "2308",
+			"recovery": "1396"
+		},
+		"leader": "HP +25% (Element)",
+		"light": {
+			"passive": "Sleep 20% 1T",
+			"active": "Silence 60% 1T",
+			"target": "Single Target",
+			"hp": "28915",
+			"attack": "1700",
+			"defense": "1762",
+			"recovery": "1561"
+		},
+		"wood": {
+			"passive": "Defense Down 40% 2T",
+			"active": "Defense Down 60% 2T",
+			"target": "Single Target",
+			"hp": "26144",
+			"attack": "2287",
+			"defense": "1520",
+			"recovery": "1423"
+		},
+		"fire": {
+			"passive": "Attack Down 40% 1T",
+			"active": "Attack Down 60% 2T",
+			"target": "Single Target",
+			"hp": "26241",
+			"attack": "1700",
+			"defense": "1444",
+			"recovery": "2370"
+		},
+		"dark": {
+			"passive": "Taunt 20% 1T",
+			"active": "Taunt 60% 1T",
+			"target": "Single Target",
+			"hp": "37558",
+			"attack": "1416",
+			"defense": "1375",
+			"recovery": "1713"
+		}
+	},
+	"pinchee": {
+		"wood": {
+			"passive": "Wood Stalker 20%",
+			"active": "Petrification 60% 1T",
+			"target": "Single Target",
+			"hp": "29921",
+			"attack": "1469",
+			"defense": "2273",
+			"recovery": "1744"
+		},
+		"leader": "Def +25%",
+		"fire": {
+			"passive": "Fire Stalker 20%",
+			"active": "Recovery Down 80% 2T",
+			"target": "Single Target",
+			"hp": "38666",
+			"attack": "1246",
+			"defense": "1683",
+			"recovery": "1547"
+		},
+		"water": {
+			"passive": "Water Stalker 20%",
+			"active": "Defense Down 80% 2T",
+			"target": "Single Target",
+			"hp": "29137",
+			"attack": "2302",
+			"defense": "1327",
+			"recovery": "1443"
+		}
+	},
+	"bellpup": {
+		"water": {
+			"passive": "Attack Down 50% 2T",
+			"active": "Recovery Up 2T",
+			"target": "Heal",
+			"hp": "26193",
+			"attack": "1998",
+			"defense": "1984",
+			"recovery": "1912"
+		},
+		"leader": "Rec +25%",
+		"fire": {
+			"passive": "Soul Boon: Red",
+			"active": "Zeal 2T",
+			"target": "Heal",
+			"hp": "23653",
+			"attack": "1690",
+			"defense": "1555",
+			"recovery": "2436"
+		},
+		"wood": {
+			"passive": "Stun 40% 1T",
+			"active": "Vigor 2T",
+			"target": "Heal",
+			"hp": "31025",
+			"attack": "1564",
+			"defense": "1446",
+			"recovery": "2436"
+		}
+	},
+	"candling": {
+		"wood": {
+			"passive": "Water Hunter 50%",
+			"active": "Sap 60% x1 2T",
+			"target": "All Enemies",
+			"hp": "29457",
+			"attack": "1742",
+			"defense": "1963",
+			"recovery": "1862",
+			"gem": "%Crit-Rate/%Def %HP %Atk Intuition"
+		},
+		"leader": "Crit +20% (Dungeon)",
+		"fire": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "26199",
+			"attack": "2378",
+			"defense": "1798",
+			"recovery": "1661",
+			"gem": "%HP %Def %Atk Valor"
+		},
+		"water": {
+			"passive": "Stalker 20%",
+			"active": "Stalker 20%",
+			"target": "All Enemies",
+			"hp": "23523",
+			"attack": "2452",
+			"defense": "1729",
+			"recovery": "1812",
+			"gem": "%Crit-Rate/%HP %Crit-Dmg/%%Atk %Atk Intuition"
+		}
+	},
+	"jellai": {
+		"wood": {
+			"passive": "Attack Down 60% 1T",
+			"active": "Recovery Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "30206",
+			"attack": "1763",
+			"defense": "1930",
+			"recovery": "1752",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"leader": "HP +35% (ToC)",
+		"water": {
+			"passive": "Shield Breaker",
+			"active": "HP Siphon 5% Team",
+			"target": "All Enemies",
+			"hp": "35600",
+			"attack": "1717",
+			"defense": "1914",
+			"recovery": "1464",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"fire": {
+			"passive": "HP Siphon",
+			"active": "Petrification 40% 1T",
+			"target": "All Enemies",
+			"hp": "25306",
+			"attack": "2616",
+			"defense": "1783",
+			"recovery": "1268",
+			"gem": "%Atk %Atk %HP Valor"
+		},
+		"light": {
+			"passive": "Seal Critical 2T",
+			"active": "Def Break Critical 2T",
+			"target": "All Enemies",
+			"hp": "22793",
+			"attack": "3405",
+			"defense": "2077",
+			"recovery": "1914",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Intuition"
+		},
+		"dark": {
+			"passive": "HP Siphon Team 5%",
+			"active": "Agression (Atk)",
+			"target": "All Enemies",
+			"hp": "32698",
+			"attack": "2267",
+			"defense": "2311",
+			"recovery": "2134",
+			"gem": "%HP %HP %HP Life"
+		}
+	},
+	"cosmo": {
+		"light": {
+			"passive": "Adrenaline Critical 10% Team",
+			"active": "Sap 60% x1 1T",
+			"target": "All Enemies",
+			"hp": "30010",
+			"attack": "1893",
+			"defense": "1922",
+			"recovery": "1630",
+			"gem": "%HP %Crit-Rate/%HP %Def Intuition"
+		},
+		"leader": "Crit +18%",
+		"dark": {
+			"passive": "Shield Breaker",
+			"active": "Silence 60% 1T",
+			"target": "All Enemies",
+			"hp": "45523",
+			"attack": "1410",
+			"defense": "1446",
+			"recovery": "1282",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"colte": {
+		"light": {
+			"passive": "Morale Boost 20%",
+			"active": "Shock 80% 2T",
+			"target": "Single Target",
+			"hp": "30418",
+			"attack": "1750",
+			"defense": "1895",
+			"recovery": "1806",
+			"gem": "%HP %Def %HP Protection"
+		},
+		"leader": "CD +35% (Element)",
+		"dark": {
+			"passive": "Morale Boost 20%",
+			"active": "Light Predator 100%",
+			"target": "Single Target",
+			"hp": "26431",
+			"attack": "2384",
+			"defense": "1819",
+			"recovery": "1601",
+			"gem": "%Atk %Crit-Rate/%Atk %HP Intuition"
+		}
+	},
+	"manelant": {
+		"wood": {
+			"passive": "Petrification 60% 1T",
+			"active": "Sap 80% x1 2T",
+			"target": "Single Target",
+			"hp": "29312",
+			"attack": "1935",
+			"defense": "1889",
+			"recovery": "1686"
+		},
+		"leader": "Def +25%",
+		"fire": {
+			"passive": "Attack Down 70% 2T",
+			"active": "Recovery Down 80% 2T",
+			"target": "Single Target",
+			"hp": "27047",
+			"attack": "2491",
+			"defense": "1406",
+			"recovery": "1478"
+		},
+		"water": {
+			"passive": "Sleep 60% 1T",
+			"active": "Fatigue 80% 2T",
+			"target": "Single Target",
+			"hp": "36440",
+			"attack": "1713",
+			"defense": "1216",
+			"recovery": "1351"
+		}
+	},
+	"seedler": {
+		"wood": {
+			"passive": "Sap 60% x2 1T",
+			"active": "Sap 40% x2 2T",
+			"target": "All Enemies",
+			"hp": "35457",
+			"attack": "1711",
+			"defense": "1887",
+			"recovery": "1473",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"leader": "Res +20%"
+	},
+	"wormtail": {
+		"water": {
+			"passive": "Sap 50% x1 2T",
+			"active": "Petrification 80% 1T",
+			"target": "Single Target",
+			"hp": "37792",
+			"attack": "1132",
+			"defense": "1853",
+			"recovery": "1363"
+		},
+		"leader": "Res +15%",
+		"wood": {
+			"passive": "Attack Down 60% 2T",
+			"active": "Recovery Down 80% 2T",
+			"target": "Single Target",
+			"hp": "25742",
+			"attack": "2281",
+			"defense": "1525",
+			"recovery": "1607"
+		},
+		"fire": {
+			"passive": "Stun 50% 1T",
+			"active": "Defense Down 80% 2T",
+			"target": "Single Target",
+			"hp": "34898",
+			"attack": "1404",
+			"defense": "1445",
+			"recovery": "1758"
+		}
+	},
+	"rowan": {
+		"wood": {
+			"passive": "Sleep 40% 1T",
+			"active": "Zeal 2T",
+			"target": "Heal",
+			"hp": "37590",
+			"attack": "1192",
+			"defense": "1839",
+			"recovery": "1342"
+		},
+		"leader": "Rec +25%"
+	},
+	"beth": {
+		"dark": {
+			"passive": "Noob Predator 500%",
+			"active": "Nood Predator 1000%",
+			"target": "Everything",
+			"hp": "999999",
+			"attack": "9999",
+			"defense": "9999",
+			"recovery": "9999"
+		},
+		"fire": {
+			"passive": "Wood Predator 20%",
+			"active": "Wood Predator 100%",
+			"target": "Single Target",
+			"hp": "28873",
+			"attack": "1995",
+			"defense": "1794",
+			"recovery": "1690",
+			"gem": "%Atk %Def %HP Protection"
+		},
+		"leader": "Def +35% (PvP)",
+		"water": {
+			"passive": "Fire Predator 20%",
+			"active": "Fire Predator 100%",
+			"target": "Single Target",
+			"hp": "35797",
+			"attack": "1854",
+			"defense": "1330",
+			"recovery": "1464",
+			"gem": "%HP %Atk %Def Protection"
+		},
+		"wood": {
+			"passive": "Water Predator 20%",
+			"active": "Water Predator 100%",
+			"target": "Single Target",
+			"hp": "41865",
+			"attack": "1601",
+			"defense": "1234",
+			"recovery": "1446",
+			"gem": "%HP %Atk %Def Protection"
+		}
+	},
+	"crowhook": {
+		"wood": {
+			"passive": "Water Stalker 20%",
+			"active": "Defense Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "25565",
+			"attack": "2485",
+			"defense": "1783",
+			"recovery": "1226",
+			"gem": "%Crit-Rate/%Atk %Atk %Crit-Rate/%HP Ruin"
+		},
+		"leader": "CD +45% (PvP)",
+		"water": {
+			"passive": "Fire Stalker 20%",
+			"active": "Stun 60% 1T",
+			"target": "All Enemies",
+			"hp": "25925",
+			"attack": "2581",
+			"defense": "1777",
+			"recovery": "1682",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"fire": {
+			"passive": "Wood Hunter 50%",
+			"active": "Sap 80% x2 1T",
+			"target": "All Enemies",
+			"hp": "29370",
+			"attack": "2015",
+			"defense": "1684",
+			"recovery": "1663",
+			"gem": "%Crit-Rate/%HP %Atk %Def Intuition"
+		}
+	},
+	"latt": {
+		"wood": {
+			"passive": "Sap 40% x1 1T",
+			"active": "Fatigue 60% 2T",
+			"target": "All Enemies",
+			"hp": "30005",
+			"attack": "1620",
+			"defense": "1764",
+			"recovery": "1622",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"leader": "Atk +35% (PvP)",
+		"fire": {
+			"passive": "Stun 40% 2T",
+			"active": "Recovery Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "26839",
+			"attack": "2622",
+			"defense": "1533",
+			"recovery": "1601",
+			"gem": "%HP %Atk %Def Valor"
+		},
+		"water": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Attack Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "38141",
+			"attack": "1574",
+			"defense": "1506",
+			"recovery": "1887",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"starrov": {
+		"water": {
+			"passive": "Fatigue 40% 1T",
+			"active": "Petrification 60% 1T",
+			"target": "Single Target",
+			"hp": "29938",
+			"attack": "1591",
+			"defense": "1764",
+			"recovery": "1622"
+		},
+		"leader": "Crit +15%",
+		"wood": {
+			"passive": "Sleep Critical 1T",
+			"active": "Defense Down 60% 2T",
+			"target": "Single Target",
+			"hp": "26508",
+			"attack": "2377",
+			"defense": "1695",
+			"recovery": "1458"
+		},
+		"fire": {
+			"passive": "Buff Breaker",
+			"active": "Defense Down 60% 2T",
+			"target": "Single Target",
+			"hp": "26034",
+			"attack": "2484",
+			"defense": "1458",
+			"recovery": "1628"
+		}
+	},
+	"ghos": {
+		"light": {
+			"passive": "Stun Critical 1T",
+			"active": "Sleep Critical 1T",
+			"target": "All Enemies",
+			"hp": "35363",
+			"attack": "1553",
+			"defense": "1758",
+			"recovery": "1327",
+			"gem": "%Crit-Rate/%HP %Crit-Rate/%Def %Resist Protection"
+		},
+		"leader": "Atk +25%",
+		"dark": {
+			"passive": "Attack Down 40% 1T",
+			"active": "Sap 40% x1 2T",
+			"target": "All Enemies",
+			"hp": "26034",
+			"attack": "2343",
+			"defense": "1565",
+			"recovery": "1403",
+			"gem": "%Atk %Def %HP valor"
+		}
+	},
+	"cotteen": {
+		"water": {
+			"passive": "Shield Breaker",
+			"active": "Defense Up 3T",
+			"target": "Heal",
+			"hp": "30207",
+			"attack": "1458",
+			"defense": "1729",
+			"recovery": "2493",
+			"gem": "%Rec %HP %Def Protection"
+		},
+		"leader": "BlueS +15%",
+		"fire": {
+			"passive": "Sap 60% x1 1T",
+			"active": "Attack Up 3T",
+			"target": "Heal",
+			"hp": "27688",
+			"attack": "1362",
+			"defense": "1700",
+			"recovery": "2574",
+			"gem": "%Rec %HP %Def Protection"
+		},
+		"wood": {
+			"passive": "Taunt 40% 1T",
+			"active": "Purification",
+			"target": "Heal",
+			"hp": "31043",
+			"attack": "1533",
+			"defense": "1429",
+			"recovery": "2574",
+			"gem": "%Rec %HP %Def Life"
+		}
+	},
+	"phibian": {
+		"wood": {
+			"passive": "Defense Down 50% 2T",
+			"active": "Defense Down 70% 2T",
+			"target": "All Enemies",
+			"hp": "32719",
+			"attack": "1783",
+			"defense": "1725",
+			"recovery": "1630",
+			"gem": "%Def %HP %Def Life"
+		},
+		"leader": "BlueS +25% (Element)",
+		"fire": {
+			"passive": "Defense Down 60% 2T",
+			"active": "Recovery Down 80% 2T",
+			"target": "All Enemies",
+			"hp": "27178",
+			"attack": "2622",
+			"defense": "1560",
+			"recovery": "1607",
+			"gem": "%Atk %HP %Def Valor"
+		},
+		"water": {
+			"passive": "Adrenaline 20%",
+			"active": "Stun 70% 1T",
+			"target": "All Enemies",
+			"hp": "44806",
+			"attack": "1431",
+			"defense": "1410",
+			"recovery": "1342",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"robobot": {
+		"dark": {
+			"passive": "Taunt 40% 1T",
+			"active": "Attack Down 80% 2T",
+			"target": "Single Target",
+			"hp": "27963",
+			"attack": "1891",
+			"defense": "1724",
+			"recovery": "1562"
+		},
+		"leader": "Def +25%",
+		"light": {
+			"passive": "Attack Down 40% 1T",
+			"active": "Fatigue 80% 2T",
+			"target": "Single Target",
+			"hp": "27156",
+			"attack": "2545",
+			"defense": "1403",
+			"recovery": "1524"
+		}
+	},
+	"gupp": {
+		"water": {
+			"passive": "Sap 40% x1 2T",
+			"active": "Sleep 60% 1T",
+			"target": "Single Target",
+			"hp": "26216",
+			"attack": "2343",
+			"defense": "1695",
+			"recovery": "1565"
+		},
+		"leader": "Res +15%"
+	},
+	"beecomb": {
+		"dark": {
+			"passive": "Sap 40% x1 1T",
+			"active": "Sap 80% x1 2T",
+			"target": "Single Target",
+			"hp": "34825",
+			"attack": "1403",
+			"defense": "1683",
+			"recovery": "1588"
+		},
+		"leader": "Res +15%",
+		"light": {
+			"passive": "Defense Down 40% 2T",
+			"active": "Sleep 60% 1T",
+			"target": "Single Target",
+			"hp": "28723",
+			"attack": "2354",
+			"defense": "1559",
+			"recovery": "1437"
+		}
+	},
+	"minicat": {
+		"wood": {
+			"passive": "Recovery Down 60% 1T",
+			"active": "Attack Up 2T",
+			"target": "Heal",
+			"hp": "23562",
+			"attack": "1819",
+			"defense": "1669",
+			"recovery": "2664",
+			"gem": "%Rec %HP %Def Life"
+		},
+		"leader": "Rec +35% (ToC)",
+		"water": {
+			"passive": "Stun 40% 1T",
+			"active": "Shield 2T",
+			"target": "Heal",
+			"hp": "28562",
+			"attack": "1649",
+			"defense": "1526",
+			"recovery": "2595",
+			"gem": "%Rec %HP %Def Life"
+		},
+		"fire": {
+			"passive": "Sap 60% x2 1T",
+			"active": "Purification",
+			"target": "Heal",
+			"hp": "35281",
+			"attack": "1744",
+			"defense": "1452",
+			"recovery": "1642",
+			"gem": "%HP %Rec %Def Protection"
+		}
+	},
+	"snowee": {
+		"water": {
+			"passive": "Taunt 80% 1T",
+			"active": "Sap 60% x2 1T",
+			"target": "All Enemies",
+			"hp": "43240",
+			"attack": "1622",
+			"defense": "1261",
+			"recovery": "1465",
+			"gem": "%HP %HP %Def Protection"
+		},
+		"light": {
+			"passive": "HP Siphon",
+			"active": "HP Siphon Team",
+			"target": "All Enemies",
+			"hp": "26368",
+			"attack": "3276",
+			"defense": "2247",
+			"recovery": "1682",
+			"gem": "%Atk %Atk %Def Valor"
+		},
+		"dark": {
+			"passive": "Atk Down 70% 1T",
+			"active": "Stun 70% 1T",
+			"target": "All Enemies",
+			"hp": "31479",
+			"attack": "2532",
+			"defense": "2570",
+			"recovery": "1671",
+			"gem": "%HP %Def %Def Life"
+		},
+		"leader": "BlueS +25%"
+	},
+	"yaksha": {
+		"wood": {
+			"passive": "(Crit) Sleep 100% 2T",
+			"active": "Thirst 60% -30% 1T",
+			"target": "All Enemies",
+			"hp": "29869",
+			"attack": "3126",
+			"defense": "2125",
+			"recovery": "2002",
+			"gem": "%Crit-Rate/%HP %Atk %Def Intuition"
+		},
+		"leader": "Crit Dmg 50%",
+		"light": {
+			"passive": "Def Break 70% 3T",
+			"active": "Increase DMG 30%",
+			"target": "All Enemies",
+			"hp": "26559",
+			"attack": "3269",
+			"defense": "2084",
+			"recovery": "2193",
+			"gem": "%Def %Atk %HP Life"
+		},
+		"water": {
+			"passive": "Crit Rate +20%",
+			"active": "Crit Rate +20%",
+			"target": "All Enemies",
+			"hp": "29589",
+			"attack": "3153",
+			"defense": "2152",
+			"recovery": "1982",
+			"gem": "%Atk %Crit-Dmg/%%Atk %Crit-Rate/%Def Ruin"
+		},
+		"dark": {
+			"passive": "Adrenaline 10% Team",
+			"active": "Silence 60% 2T",
+			"target": "All Enemies",
+			"hp": "30696",
+			"attack": "2641",
+			"defense": "2542",
+			"recovery": "2331",
+			"gem": "%HP %Def %Def Life"
+		},
+		"fire": {
+			"passive": "Atk Down 80% 2T",
+			"active": "Stun 60% 1T",
+			"target": "All Enemies",
+			"hp": "30093",
+			"attack": "2322",
+			"defense": "3037",
+			"recovery": "1852",
+			"gem": "%Def %Def %HP Life"
+		}
+	},
+	"truffel": {
+		"leader": "Defense +35% (Clan)",
+		"dark": {
+			"passive": "Atk Down 60% 2T",
+			"active": "Atk Down 60% 2T",
+			"target": "All Enemies",
+			"hp": "28738",
+			"attack": "1750",
+			"defense": "2744",
+			"recovery": "1410",
+			"gem": "%Def %HP %Def Life"
+		},
+		"fire": {
+			"passive": "HP Siphon 30%",
+			"active": "Petrify 60% 1T",
+			"target": "All Enemies",
+			"hp": "34898",
+			"attack": "1499",
+			"defense": "1806",
+			"recovery": "1724",
+			"gem": "%HP %HP %Def Protection"
+		}
+	},
+	"jack-o-little": {
+		"leader": "RedS +25%",
+		"dark": {
+			"passive": "HP Siphon 5% Team",
+			"active": "Sap 50% 2x 2T",
+			"target": "All Enemies",
+			"hp": "36759",
+			"attack": "1813",
+			"defense": "2316",
+			"recovery": "2133",
+			"gem": "%HP %HP %HP Protection"
+		},
+		"light": {
+			"passive": "SP Siphon Critical 30%",
+			"active": "Hunter 50%",
+			"target": "All Enemies",
+			"hp": "25143",
+			"attack": "3173",
+			"defense": "2281",
+			"recovery": "2084",
+			"gem": "%Crit-Rate/%Atk %Atk %Def Intuition"
+		}
+	}
+}
